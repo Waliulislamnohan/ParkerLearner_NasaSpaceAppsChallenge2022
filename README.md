@@ -13,6 +13,7 @@ HIGH-LEVEL PROJECT SUMMARY
 We build a system to learn the young generation about the Nasa project "Parker Sun solar probe". As we targeted young we have to build something creative which will attract them. So we build a system that is identical to Parker and sun. Our system has 2 part the first part is prototype probe and sun , we use sensors to collect data like rotation ,speed form sun and show it through LCD display. And the 2nd part of our project is our app which collects the realtime data from probe and show it also it ask some question to engage the audience if they could answer correctly the app give them some points by which they can buy NASA premium stuff.
 
 DETAILED PROJECT DESCRIPTION
+
 What is it?
 
 We build a system to learn the young generation about the Nasa project "Parker Sun solar probe".
